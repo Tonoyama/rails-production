@@ -3,6 +3,6 @@
 LAMP環境の構築を勉強する。
 
 - Linux(Docker)
-- Apache
+- Nginx
 - MySQL
 - Ruby on Rails
